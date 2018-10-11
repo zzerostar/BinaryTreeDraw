@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bitree_radius_default">10dp</dimen>
+    <dimen name="bitree_x_gap_default">2dp</dimen>
+    <dimen name="bitree_y_gap_default">15dp</dimen>
+    <dimen name="bitree_text_size_default">14sp</dimen>
+    <dimen name="bitree_top_bottom_offset">12dp</dimen>
+
+</resources>

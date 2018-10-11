@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="BiTreeView">
+        <attr name="circle_radius" format="dimension"/>
+        <attr name="x_gap" format="dimension"/>
+        <attr name="y_gap" format="dimension"/>
+        <attr name="text_size" format="dimension"/>
+    </declare-styleable>
+
+</resources>
